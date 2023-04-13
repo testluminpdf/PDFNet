@@ -1,0 +1,8 @@
+*.xcframework filter=lfs diff=lfs merge=lfs -text
+Tools-Localization filter=lfs diff=lfs merge=lfs -text
+PDFNet.xcframework/ios-arm64_armv7/PDFNet.framework/PDFNet filter=lfs diff=lfs merge=lfs -text
+PDFNet.xcframework/ios-arm64_i386_x86_64-simulator/PDFNet.framework/PDFNet filter=lfs diff=lfs merge=lfs -text
+PDFNet.xcframework/ios-arm64_x86_64-maccatalyst/PDFNet.framework/PDFNet filter=lfs diff=lfs merge=lfs -text
+Tools.xcframework/ios-arm64_armv7/Tools.framework/Tools[[:space:]] filter=lfs diff=lfs merge=lfs -text
+Tools.xcframework/ios-arm64_i386_x86_64-simulator/Tools.framework/Tools[[:space:]] filter=lfs diff=lfs merge=lfs -text
+Tools.xcframework/ios-arm64_x86_64-maccatalyst/Tools.framework/Tools[[:space:]] filter=lfs diff=lfs merge=lfs -text
