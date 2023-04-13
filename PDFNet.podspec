@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
                           The complete PDF toolkit.
                           DESC
   s.platform            = :ios, '11.0'
-  s.source              = { :git => 'https://github.com/testluminpdf/PDFNet.git' }
+  s.source              = { :http => 'https://hienphamit.com/PDFNet.zip' }
 
   s.preserve_paths      = 'PDFNet.xcframework', 'Tools.xcframework'
   s.vendored_frameworks = 'PDFNet.xcframework', 'Tools.xcframework'
